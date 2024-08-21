@@ -1,3 +1,5 @@
+![A sample harmonogram](harmonogram.png)
+
 # Harmonograph
 
 > Generating harmonic, yet chaotic images using damped coupled pendula
